@@ -9,7 +9,7 @@ if __name__ == '__main__':
         # НАЧАЛО ЧАСТИ, КОТОРУЮ НУЖНО ИЗМЕНИТЬ
 
         githubName = "SikioN"
-        repoName = "https://github.com/SikioN/Math/"
+        repoName = "Math"
         header = "Коллок Матан"
         fileExtension = ".jpg"
 

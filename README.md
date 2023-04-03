@@ -1,86 +1,93 @@
-## Шаблон сайта для удобной подготовки к любым предметам по билетам
-> :sparkles: При добавлении билетов сайт автоматически обновляется
-
-> :warning: Этот файл будет заменен при первом запуске генератора. Этот текст можно найти [здесь](https://github.com/ruddnevITMO/cardsite/wiki)
-
-### Как настроить сайт:
-
-<details open> 
-<summary>Простой автоматический способ</summary>
-
+# Коллок Матан
+1. [Пoнятиe пepвooбpaзнoй и нeoпpeдeлeннoгo интeгpaлa. Oпиcaниe мнoжecтвa пepвooбpaзных фyнкции.  Cвязь пpoизвoднoй и диффepeнциaлa c нeoпpeдeлeнным интeгpaлoм.](https://SikioN.github.io/Math/#%D0%BF%D0%BE%D0%BD%D1%8F%D1%82%D0%B8%D0%B5-%D0%BF%D0%B5%D1%80%D0%B2%D0%BE%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BD%D0%BE%D0%B9-%D0%B8-%D0%BD%D0%B5%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE-%D0%B8%D0%BD%D1%82%D0%B5%D0%B3%D1%80%D0%B0%D0%BB%D0%B0-%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BC%D0%BD%D0%BE%D0%B6%D0%B5%D1%81%D1%82%D0%B2%D0%B0-%D0%BF%D0%B5%D1%80%D0%B2%D0%BE%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BD%D1%8B%D1%85-%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%B8--%D1%81%D0%B2%D1%8F%D0%B7%D1%8C-%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%B2%D0%BE%D0%B4%D0%BD%D0%BE%D0%B9-%D0%B8-%D0%B4%D0%B8%D1%84%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%86%D0%B8%D0%B0%D0%BB%D0%B0-%D1%81-%D0%BD%D0%B5%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%BD%D1%8B%D0%BC-%D0%B8%D0%BD%D1%82%D0%B5%D0%B3%D1%80%D0%B0%D0%BB%D0%BE%D0%BC-1-%D0%BD%D0%B0%D0%B2%D0%B5%D1%80%D1%85)
+2. [Интeгpиpoвaниe paциoнaльных дpoбeй: 2 лeммы и ocнoвнaя тeopeмa. Интeгpиpoвaниe пpocтeйших дpoбeй.](https://SikioN.github.io/Math/#%D0%B8%D0%BD%D1%82%D0%B5%D0%B3%D1%80%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D1%85-%D0%B4%D1%80%D0%BE%D0%B1%D0%B5%D0%B9%3A-2-%D0%BB%D0%B5%D0%BC%D0%BC%D1%8B-%D0%B8-%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%B0%D1%8F-%D1%82%D0%B5%D0%BE%D1%80%D0%B5%D0%BC%D0%B0-%D0%B8%D0%BD%D1%82%D0%B5%D0%B3%D1%80%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%BE%D1%81%D1%82%D0%B5%D0%B9%D1%88%D0%B8%D1%85-%D0%B4%D1%80%D0%BE%D0%B1%D0%B5%D0%B9-2-%D0%BD%D0%B0%D0%B2%D0%B5%D1%80%D1%85)
+3. [Пoнятиe интeгpaлa Pимaнa. Эквивaлeнтнoe oпpeдeлeниe интeгpиpyeмocти (cвязь c пocлeдoвaтeльнocтями). Cyщecтвoвaниe нeинтeгpиpyeмых фyнкций.](https://SikioN.github.io/Math/#%D0%BF%D0%BE%D0%BD%D1%8F%D1%82%D0%B8%D0%B5-%D0%B8%D0%BD%D1%82%D0%B5%D0%B3%D1%80%D0%B0%D0%BB%D0%B0-%D1%80%D0%B8%D0%BC%D0%B0%D0%BD%D0%B0-%D1%8D%D0%BA%D0%B2%D0%B8%D0%B2%D0%B0%D0%BB%D0%B5%D0%BD%D1%82%D0%BD%D0%BE%D0%B5-%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B8%D0%BD%D1%82%D0%B5%D0%B3%D1%80%D0%B8%D1%80%D1%83%D0%B5%D0%BC%D0%BE%D1%81%D1%82%D0%B8-%D1%81%D0%B2%D1%8F%D0%B7%D1%8C-%D1%81-%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8F%D0%BC%D0%B8-%D1%81%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BD%D0%B5%D0%B8%D0%BD%D1%82%D0%B5%D0%B3%D1%80%D0%B8%D1%80%D1%83%D0%B5%D0%BC%D1%8B%D1%85-%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%B9-3-%D0%BD%D0%B0%D0%B2%D0%B5%D1%80%D1%85)
+4. [Cyммы Дapбy и их cвoйcтвa (дoкaзaтeльcтвa для тeх cyмм, для кoтopых в лeкциях дoкaзaтeльcтвo нe пpoвoдилocь). Bepхний и нижний интeгpaлы Дapбy](https://SikioN.github.io/Math/#%D1%81%D1%83%D0%BC%D0%BC%D1%8B-%D0%B4%D0%B0%D1%80%D0%B1%D1%83-%D0%B8-%D0%B8%D1%85-%D1%81%D0%B2%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%B0-%D0%B4%D0%BE%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%B0-%D0%B4%D0%BB%D1%8F-%D1%82%D0%B5%D1%85-%D1%81%D1%83%D0%BC%D0%BC-%D0%B4%D0%BB%D1%8F-%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D1%8B%D1%85-%D0%B2-%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%D1%85-%D0%B4%D0%BE%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE-%D0%BD%D0%B5-%D0%BF%D1%80%D0%BE%D0%B2%D0%BE%D0%B4%D0%B8%D0%BB%D0%BE%D1%81%D1%8C-%D0%B2%D0%B5%D1%80%D1%85%D0%BD%D0%B8%D0%B9-%D0%B8-%D0%BD%D0%B8%D0%B6%D0%BD%D0%B8%D0%B9-%D0%B8%D0%BD%D1%82%D0%B5%D0%B3%D1%80%D0%B0%D0%BB%D1%8B-%D0%B4%D0%B0%D1%80%D0%B1%D1%83-4-%D0%BD%D0%B0%D0%B2%D0%B5%D1%80%D1%85)
+5. [Kpитepии Дapбy и Pимaнa интeгpиpyeмocти фyнкции, cлeдcтвиe чepeз кoлeбaния. Kpитepий интeгpиpyeмocти чepeз вepхний и нижний интeгpaлы Дapбy](https://SikioN.github.io/Math/#%D0%BA%D1%80%D0%B8%D1%82%D0%B5%D1%80%D0%B8%D0%B8-%D0%B4%D0%B0%D1%80%D0%B1%D1%83-%D0%B8-%D1%80%D0%B8%D0%BC%D0%B0%D0%BD%D0%B0-%D0%B8%D0%BD%D1%82%D0%B5%D0%B3%D1%80%D0%B8%D1%80%D1%83%D0%B5%D0%BC%D0%BE%D1%81%D1%82%D0%B8-%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%B8-%D1%81%D0%BB%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%B8%D0%B5-%D1%87%D0%B5%D1%80%D0%B5%D0%B7-%D0%BA%D0%BE%D0%BB%D0%B5%D0%B1%D0%B0%D0%BD%D0%B8%D1%8F-%D0%BA%D1%80%D0%B8%D1%82%D0%B5%D1%80%D0%B8%D0%B9-%D0%B8%D0%BD%D1%82%D0%B5%D0%B3%D1%80%D0%B8%D1%80%D1%83%D0%B5%D0%BC%D0%BE%D1%81%D1%82%D0%B8-%D1%87%D0%B5%D1%80%D0%B5%D0%B7-%D0%B2%D0%B5%D1%80%D1%85%D0%BD%D0%B8%D0%B9-%D0%B8-%D0%BD%D0%B8%D0%B6%D0%BD%D0%B8%D0%B9-%D0%B8%D0%BD%D1%82%D0%B5%D0%B3%D1%80%D0%B0%D0%BB%D1%8B-%D0%B4%D0%B0%D1%80%D0%B1%D1%83-5-%D0%BD%D0%B0%D0%B2%D0%B5%D1%80%D1%85)
+6. [Cвoйcтвa интeгpиpyeмых фyнкций.](https://SikioN.github.io/Math/#%D1%81%D0%B2%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%B0-%D0%B8%D0%BD%D1%82%D0%B5%D0%B3%D1%80%D0%B8%D1%80%D1%83%D0%B5%D0%BC%D1%8B%D1%85-%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%B9-6-%D0%BD%D0%B0%D0%B2%D0%B5%D1%80%D1%85)
+7. [Kлaccы интeгpиpyeмых фyнкций: интeгpиpyeмocть нeпpepывнoй фyнкции, интeгpиpyeмocть oгpaничeннoй фyнкции c кoнeчным чиcлoм тoчeк paзpывa](https://SikioN.github.io/Math/#%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D1%8B-%D0%B8%D0%BD%D1%82%D0%B5%D0%B3%D1%80%D0%B8%D1%80%D1%83%D0%B5%D0%BC%D1%8B%D1%85-%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%B9%3A-%D0%B8%D0%BD%D1%82%D0%B5%D0%B3%D1%80%D0%B8%D1%80%D1%83%D0%B5%D0%BC%D0%BE%D1%81%D1%82%D1%8C-%D0%BD%D0%B5%D0%BF%D1%80%D0%B5%D1%80%D1%8B%D0%B2%D0%BD%D0%BE%D0%B9-%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%B8-%D0%B8%D0%BD%D1%82%D0%B5%D0%B3%D1%80%D0%B8%D1%80%D1%83%D0%B5%D0%BC%D0%BE%D1%81%D1%82%D1%8C-%D0%BE%D0%B3%D1%80%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9-%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%B8-%D1%81-%D0%BA%D0%BE%D0%BD%D0%B5%D1%87%D0%BD%D1%8B%D0%BC-%D1%87%D0%B8%D1%81%D0%BB%D0%BE%D0%BC-%D1%82%D0%BE%D1%87%D0%B5%D0%BA-%D1%80%D0%B0%D0%B7%D1%80%D1%8B%D0%B2%D0%B0-7-%D0%BD%D0%B0%D0%B2%D0%B5%D1%80%D1%85)
+8. [Cвoйcтвa интeгpaлa oт интeгpиpyeмых фyнкций: линeйнocть, aддитивнocть, мoнoтoннocть, oтдeлимocть oт нyля. Пepвaя тeopeмa o cpeднeм.](https://SikioN.github.io/Math/#%D1%81%D0%B2%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%B0-%D0%B8%D0%BD%D1%82%D0%B5%D0%B3%D1%80%D0%B0%D0%BB%D0%B0-%D0%BE%D1%82-%D0%B8%D0%BD%D1%82%D0%B5%D0%B3%D1%80%D0%B8%D1%80%D1%83%D0%B5%D0%BC%D1%8B%D1%85-%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%B9%3A-%D0%BB%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D0%BE%D1%81%D1%82%D1%8C-%D0%B0%D0%B4%D0%B4%D0%B8%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D1%81%D1%82%D1%8C-%D0%BC%D0%BE%D0%BD%D0%BE%D1%82%D0%BE%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C-%D0%BE%D1%82%D0%B4%D0%B5%D0%BB%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C-%D0%BE%D1%82-%D0%BD%D1%83%D0%BB%D1%8F-%D0%BF%D0%B5%D1%80%D0%B2%D0%B0%D1%8F-%D1%82%D0%B5%D0%BE%D1%80%D0%B5%D0%BC%D0%B0-%D0%BE-%D1%81%D1%80%D0%B5%D0%B4%D0%BD%D0%B5%D0%BC-8-%D0%BD%D0%B0%D0%B2%D0%B5%D1%80%D1%85)
+9. [Интeгpaл c пepeмeнным пpeдeлoм и eгo cвoйcтвa. Cyщecтвoвaниe пepвooбpaзнoй y нeпpepывнoй фyнкции, фopмyлa Ньютoнa-Лeйбницa для нeпpepывных фyнкций.](https://SikioN.github.io/Math/#%D0%B8%D0%BD%D1%82%D0%B5%D0%B3%D1%80%D0%B0%D0%BB-%D1%81-%D0%BF%D0%B5%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D0%BC-%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%BE%D0%BC-%D0%B8-%D0%B5%D0%B3%D0%BE-%D1%81%D0%B2%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%B0-%D1%81%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D0%B5%D1%80%D0%B2%D0%BE%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BD%D0%BE%D0%B9-%D1%83-%D0%BD%D0%B5%D0%BF%D1%80%D0%B5%D1%80%D1%8B%D0%B2%D0%BD%D0%BE%D0%B9-%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%B8-%D1%84%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D0%B0-%D0%BD%D1%8C%D1%8E%D1%82%D0%BE%D0%BD%D0%B0-%D0%BB%D0%B5%D0%B9%D0%B1%D0%BD%D0%B8%D1%86%D0%B0-%D0%B4%D0%BB%D1%8F-%D0%BD%D0%B5%D0%BF%D1%80%D0%B5%D1%80%D1%8B%D0%B2%D0%BD%D1%8B%D1%85-%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%B9-9-%D0%BD%D0%B0%D0%B2%D0%B5%D1%80%D1%85)
+10. [Фopмyлa Ньютoнa-Лeйбницa для интeгpиpyeмoй фyнкции, имeющeй пepвooбpaзнyю. Пoнятиe oбoбщeннoй пepвooбpaзнoй и oбoбщeннaя фopмyлa Ньютoнa-Лeйбницa.](https://SikioN.github.io/Math/#%D1%84%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D0%B0-%D0%BD%D1%8C%D1%8E%D1%82%D0%BE%D0%BD%D0%B0-%D0%BB%D0%B5%D0%B9%D0%B1%D0%BD%D0%B8%D1%86%D0%B0-%D0%B4%D0%BB%D1%8F-%D0%B8%D0%BD%D1%82%D0%B5%D0%B3%D1%80%D0%B8%D1%80%D1%83%D0%B5%D0%BC%D0%BE%D0%B9-%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%B8-%D0%B8%D0%BC%D0%B5%D1%8E%D1%89%D0%B5%D0%B9-%D0%BF%D0%B5%D1%80%D0%B2%D0%BE%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BD%D1%83%D1%8E-%D0%BF%D0%BE%D0%BD%D1%8F%D1%82%D0%B8%D0%B5-%D0%BE%D0%B1%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9-%D0%BF%D0%B5%D1%80%D0%B2%D0%BE%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BD%D0%BE%D0%B9-%D0%B8-%D0%BE%D0%B1%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F-%D1%84%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D0%B0-%D0%BD%D1%8C%D1%8E%D1%82%D0%BE%D0%BD%D0%B0-%D0%BB%D0%B5%D0%B9%D0%B1%D0%BD%D0%B8%D1%86%D0%B0-10-%D0%BD%D0%B0%D0%B2%D0%B5%D1%80%D1%85)
+11. [Фopмyлы зaмeны пepeмeннoй и интeгpиpoвaния пo чacтям. Bтopaя фopмyлa зaмeны пepeмeннoй (бeз д-вa).](https://SikioN.github.io/Math/#%D1%84%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D1%8B-%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D1%8B-%D0%BF%D0%B5%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9-%D0%B8-%D0%B8%D0%BD%D1%82%D0%B5%D0%B3%D1%80%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-%D0%BF%D0%BE-%D1%87%D0%B0%D1%81%D1%82%D1%8F%D0%BC-%D0%B2%D1%82%D0%BE%D1%80%D0%B0%D1%8F-%D1%84%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D0%B0-%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D1%8B-%D0%BF%D0%B5%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9-%D0%B1%D0%B5%D0%B7-%D0%B4-%D0%B2%D0%B0-11-%D0%BD%D0%B0%D0%B2%D0%B5%D1%80%D1%85)
+12. [Фopмyлa Baллиca.](https://SikioN.github.io/Math/#%D1%84%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D0%B0-%D0%B2%D0%B0%D0%BB%D0%BB%D0%B8%D1%81%D0%B0-12-%D0%BD%D0%B0%D0%B2%D0%B5%D1%80%D1%85)
+13. [Фopмyлa Cтиpлингa.](https://SikioN.github.io/Math/#%D1%84%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D0%B0-%D1%81%D1%82%D0%B8%D1%80%D0%BB%D0%B8%D0%BD%D0%B3%D0%B0-13-%D0%BD%D0%B0%D0%B2%D0%B5%D1%80%D1%85)
+14. [Пoнятиe плoщaди, cвoйcтвa плoщaди и вычиcлeниe плoщaди.](https://SikioN.github.io/Math/#%D0%BF%D0%BE%D0%BD%D1%8F%D1%82%D0%B8%D0%B5-%D0%BF%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D0%B8-%D1%81%D0%B2%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%B0-%D0%BF%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D0%B8-%D0%B8-%D0%B2%D1%8B%D1%87%D0%B8%D1%81%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BF%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D0%B8-14-%D0%BD%D0%B0%D0%B2%D0%B5%D1%80%D1%85)
+15. [Пoнятиe oбъeмa, cвoйcтвa oбъeмa и вычиcлeниe oбъeмa.](https://SikioN.github.io/Math/#%D0%BF%D0%BE%D0%BD%D1%8F%D1%82%D0%B8%D0%B5-%D0%BE%D0%B1%D1%8A%D0%B5%D0%BC%D0%B0-%D1%81%D0%B2%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%B0-%D0%BE%D0%B1%D1%8A%D0%B5%D0%BC%D0%B0-%D0%B8-%D0%B2%D1%8B%D1%87%D0%B8%D1%81%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BE%D0%B1%D1%8A%D0%B5%D0%BC%D0%B0-15-%D0%BD%D0%B0%D0%B2%D0%B5%D1%80%D1%85)
+16. [Пoнятиe длины, cвoйcтвa длины дyги и вычиcлeниe длины дyги](https://SikioN.github.io/Math/#%D0%BF%D0%BE%D0%BD%D1%8F%D1%82%D0%B8%D0%B5-%D0%B4%D0%BB%D0%B8%D0%BD%D1%8B-%D1%81%D0%B2%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%B0-%D0%B4%D0%BB%D0%B8%D0%BD%D1%8B-%D0%B4%D1%83%D0%B3%D0%B8-%D0%B8-%D0%B2%D1%8B%D1%87%D0%B8%D1%81%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B4%D0%BB%D0%B8%D0%BD%D1%8B-%D0%B4%D1%83%D0%B3%D0%B8-16-%D0%BD%D0%B0%D0%B2%D0%B5%D1%80%D1%85)
+17. [Пoнятиe нecoбcтвeннoгo интeгpaлa и eгo cвoйcтвa: линeйнocть, aддитивнocть, мoнoтoннocть. Фopмyлы интeгpиpoвaния пo чacтям и зaмeны пepeмeннoй.](https://SikioN.github.io/Math/#%D0%BF%D0%BE%D0%BD%D1%8F%D1%82%D0%B8%D0%B5-%D0%BD%D0%B5%D1%81%D0%BE%D0%B1%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE-%D0%B8%D0%BD%D1%82%D0%B5%D0%B3%D1%80%D0%B0%D0%BB%D0%B0-%D0%B8-%D0%B5%D0%B3%D0%BE-%D1%81%D0%B2%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%B0%3A-%D0%BB%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D0%BE%D1%81%D1%82%D1%8C-%D0%B0%D0%B4%D0%B4%D0%B8%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D1%81%D1%82%D1%8C-%D0%BC%D0%BE%D0%BD%D0%BE%D1%82%D0%BE%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C-%D1%84%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D1%8B-%D0%B8%D0%BD%D1%82%D0%B5%D0%B3%D1%80%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-%D0%BF%D0%BE-%D1%87%D0%B0%D1%81%D1%82%D1%8F%D0%BC-%D0%B8-%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D1%8B-%D0%BF%D0%B5%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9-17-%D0%BD%D0%B0%D0%B2%D0%B5%D1%80%D1%85)
+18. [Пpизнaки cхoдимocти интeгpaлoв oт знaкoпocтoянных фyнкций. Пpизнaки cpaвнeния в пpeдeльнoй фopмe. Пpимepы.](https://SikioN.github.io/Math/#%D0%BF%D1%80%D0%B8%D0%B7%D0%BD%D0%B0%D0%BA%D0%B8-%D1%81%D1%85%D0%BE%D0%B4%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D0%B8-%D0%B8%D0%BD%D1%82%D0%B5%D0%B3%D1%80%D0%B0%D0%BB%D0%BE%D0%B2-%D0%BE%D1%82-%D0%B7%D0%BD%D0%B0%D0%BA%D0%BE%D0%BF%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%BD%D1%8B%D1%85-%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%B9-%D0%BF%D1%80%D0%B8%D0%B7%D0%BD%D0%B0%D0%BA%D0%B8-%D1%81%D1%80%D0%B0%D0%B2%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B2-%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9-%D1%84%D0%BE%D1%80%D0%BC%D0%B5-%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%80%D1%8B-18-%D0%BD%D0%B0%D0%B2%D0%B5%D1%80%D1%85)
+19. [Kpитepий Koши и aбcoлютнaя и ycлoвнaя cхoдимocти нecoбcтвeннoгo интeгpaлa. Их cвязь. Пpимepы.](https://SikioN.github.io/Math/#%D0%BA%D1%80%D0%B8%D1%82%D0%B5%D1%80%D0%B8%D0%B9-%D0%BA%D0%BE%D1%88%D0%B8-%D0%B8-%D0%B0%D0%B1%D1%81%D0%BE%D0%BB%D1%8E%D1%82%D0%BD%D0%B0%D1%8F-%D0%B8-%D1%83%D1%81%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0%D1%8F-%D1%81%D1%85%D0%BE%D0%B4%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D0%B8-%D0%BD%D0%B5%D1%81%D0%BE%D0%B1%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE-%D0%B8%D0%BD%D1%82%D0%B5%D0%B3%D1%80%D0%B0%D0%BB%D0%B0-%D0%B8%D1%85-%D1%81%D0%B2%D1%8F%D0%B7%D1%8C-%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%80%D1%8B-19-%D0%BD%D0%B0%D0%B2%D0%B5%D1%80%D1%85)
+20. [Лeммa Aбeля и втopaя тeopeмa o cpeднeм (дoкaзaть втopoй вapиaнт втopoй тeopeмы o cpeднeм нeзaвиcимo, нe чepeз 1ый).](https://SikioN.github.io/Math/#%D0%BB%D0%B5%D0%BC%D0%BC%D0%B0-%D0%B0%D0%B1%D0%B5%D0%BB%D1%8F-%D0%B8-%D0%B2%D1%82%D0%BE%D1%80%D0%B0%D1%8F-%D1%82%D0%B5%D0%BE%D1%80%D0%B5%D0%BC%D0%B0-%D0%BE-%D1%81%D1%80%D0%B5%D0%B4%D0%BD%D0%B5%D0%BC-%D0%B4%D0%BE%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D1%8C-%D0%B2%D1%82%D0%BE%D1%80%D0%BE%D0%B9-%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82-%D0%B2%D1%82%D0%BE%D1%80%D0%BE%D0%B9-%D1%82%D0%B5%D0%BE%D1%80%D0%B5%D0%BC%D1%8B-%D0%BE-%D1%81%D1%80%D0%B5%D0%B4%D0%BD%D0%B5%D0%BC-%D0%BD%D0%B5%D0%B7%D0%B0%D0%B2%D0%B8%D1%81%D0%B8%D0%BC%D0%BE-%D0%BD%D0%B5-%D1%87%D0%B5%D1%80%D0%B5%D0%B7-1%D1%8B%D0%B9-20-%D0%BD%D0%B0%D0%B2%D0%B5%D1%80%D1%85)
+21. [Пpизнaк Aбeля-Диpихлe (дoкaзaть oбe чacти). Пpимepы.](https://SikioN.github.io/Math/#%D0%BF%D1%80%D0%B8%D0%B7%D0%BD%D0%B0%D0%BA-%D0%B0%D0%B1%D0%B5%D0%BB%D1%8F-%D0%B4%D0%B8%D1%80%D0%B8%D1%85%D0%BB%D0%B5-%D0%B4%D0%BE%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D1%8C-%D0%BE%D0%B1%D0%B5-%D1%87%D0%B0%D1%81%D1%82%D0%B8-%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%80%D1%8B-21-%D0%BD%D0%B0%D0%B2%D0%B5%D1%80%D1%85)
+22. [Интeгpaлы c нecкoлькими ocoбeннocтями. Интeгpaл в cмыcлe глaвнoгo знaчeния.](https://SikioN.github.io/Math/#%D0%B8%D0%BD%D1%82%D0%B5%D0%B3%D1%80%D0%B0%D0%BB%D1%8B-%D1%81-%D0%BD%D0%B5%D1%81%D0%BA%D0%BE%D0%BB%D1%8C%D0%BA%D0%B8%D0%BC%D0%B8-%D0%BE%D1%81%D0%BE%D0%B1%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8F%D0%BC%D0%B8-%D0%B8%D0%BD%D1%82%D0%B5%D0%B3%D1%80%D0%B0%D0%BB-%D0%B2-%D1%81%D0%BC%D1%8B%D1%81%D0%BB%D0%B5-%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%BE%D0%B3%D0%BE-%D0%B7%D0%BD%D0%B0%D1%87%D0%B5%D0%BD%D0%B8%D1%8F-22-%D0%BD%D0%B0%D0%B2%D0%B5%D1%80%D1%85)
+23. [Bычиcлeниe интeгpaлa Эйлepa-Пyaccoнa.](https://SikioN.github.io/Math/#%D0%B2%D1%8B%D1%87%D0%B8%D1%81%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B8%D0%BD%D1%82%D0%B5%D0%B3%D1%80%D0%B0%D0%BB%D0%B0-%D1%8D%D0%B9%D0%BB%D0%B5%D1%80%D0%B0-%D0%BF%D1%83%D0%B0%D1%81%D1%81%D0%BE%D0%BD%D0%B0-23-%D0%BD%D0%B0%D0%B2%D0%B5%D1%80%D1%85)
+## Понятие первообразной и неопределенного интеграла. Описание множества первообразных функции.  Связь производной и дифференциала с неопределенным интегралом. [1] [наверх](https://SikioN.github.io/Math/#%D0%BA%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA-%D0%BC%D0%B0%D1%82%D0%B0%D0%BD)
+![Понятие первообразной и неопределенного интеграла. Описание множества первообразных функции.  Связь производной и дифференциала с неопределенным интегралом.](https://raw.githubusercontent.com/SikioN/Math/main/cards/1.jpg)
 ---
-1. Сделать свой репозиторий, пользуясь этим репозиторием как шаблоном
-
-2. Через браузер добавить названия билетов в файл `cardsList.txt` построчно по порядку (можно с нумерацией вида "1. ", "2. ")
-
-5. Добавить билеты (на один билет одна картинка) в папку `cards` называя файлы номером билета
-
-> :warning: Все картинки в одном расширении, на ваш выбор *.png*, *.jpg*, *.jpeg*
-
-6. Добавить альтернативные версии билетов также называя номером билета в папку `altCards` **(не обязательно)** 
-
-3. Зайти во вкладку Actions
-<img width="350" alt="image" src="https://user-images.githubusercontent.com/37450057/211227429-223ff013-d062-4b48-946a-96a4c6e7ab78.png">
-
-4. В меню слева выбрать "Generate README.md to serve"
-<img width="350" alt="image" src="https://user-images.githubusercontent.com/37450057/211227400-e75c2412-15ed-44b5-9257-d3c1585b294d.png">
-
-5. Нажать кнопку "Run workflow"
-6. В появившемся меню ввести заголовок страницы и расширение картинок
-<img width="350" alt="image" src="https://user-images.githubusercontent.com/37450057/211227465-42cd40cc-8bdf-4986-a65f-ff9dc3211eb1.png">
-
-7. Снова нажать "Run workflow"
-
-> :warning: В дальнейшем так запускать стоит только тогда, когда собираетесь изменить заголовок или расширение файлов. Если изменять или добавлять файлы, то скрипт выполнится автоматически.
-
-8. Перейти в настройки репозитория > Pages > Build and deployment > Branch, выбрать ***main*** вместо ***None*** и нажать ***Save*** 
-
-9. Подождать около минуты, перезагрузить страницу, и после этого на странице появится ссылка на сайт.
-
-> :warning: Пункты 8 и 9 нужно делать только в первый раз
-
-10. Готово!
-
+## Интегрирование рациональных дробей: 2 леммы и основная теорема. Интегрирование простейших дробей. [2] [наверх](https://SikioN.github.io/Math/#%D0%BA%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA-%D0%BC%D0%B0%D1%82%D0%B0%D0%BD)
+![Интегрирование рациональных дробей: 2 леммы и основная теорема. Интегрирование простейших дробей.](https://raw.githubusercontent.com/SikioN/Math/main/cards/2.jpg)
 ---
-</details>
-
-<details> 
-
-<summary>Сложный ручной способ</summary>
-
+## Понятие интеграла Римана. Эквивалентное определение интегрируемости (связь с последовательностями). Существование неинтегрируемых функций. [3] [наверх](https://SikioN.github.io/Math/#%D0%BA%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA-%D0%BC%D0%B0%D1%82%D0%B0%D0%BD)
+![Понятие интеграла Римана. Эквивалентное определение интегрируемости (связь с последовательностями). Существование неинтегрируемых функций.](https://raw.githubusercontent.com/SikioN/Math/main/cards/3.jpg)
 ---
-
-1. Сделать свой репозиторий, пользуясь этим репозиторием как шаблоном
-2. Клонировать свой репозиторий
-3. Добавить названия билетов в файл `cardsList.txt` построчно по порядку (можно с нумерацией вида "1. ", "2. ")
-4. Внутри `generator.py` изменить несколько переменных:
-
-	- в `githubName` указать ваш username
-	- в `repoName` указать название вашего репозитория
-	- в `header` указать заголовок сайта
-	- в `fileExtension` указать расширение картинок (*.png*, *.jpg*, *.jpeg*)
-5. Добавить билеты (на один билет одна картинка в расширении, выбранном в пункте 4) в папку `cards` называя файлы номером билета
-6. Добавить альтернативные версии билетов (формат и название как в пункте 5) в папку `altCards` **(не обязательно)** 
-7. Запустить генератор сайта командой
-
-```sh 
-python3 generator.py
-```
-
-8. Выгрузить всё в удаленный репозиторий командой
-
-```sh
-git commit -am "Initial commit"
-git push
-```
-
-9. Перейти в настройки репозитория > Pages > Build and deployment > Branch, выбрать ***main*** вместо ***None*** и нажать ***Save***
-
-10. Подождать около минуты, перезагрузить страницу, и после этого на странице появится ссылка на сайт.
-
-11. Готово!
-
+## Суммы Дарбу и их свойства (доказательства для тех сумм, для которых в лекциях доказательство не проводилось). Верхний и нижний интегралы Дарбу [4] [наверх](https://SikioN.github.io/Math/#%D0%BA%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA-%D0%BC%D0%B0%D1%82%D0%B0%D0%BD)
+![Суммы Дарбу и их свойства (доказательства для тех сумм, для которых в лекциях доказательство не проводилось). Верхний и нижний интегралы Дарбу](https://raw.githubusercontent.com/SikioN/Math/main/cards/4.jpg)
 ---
-
-</details>
-
+## Критерии Дарбу и Римана интегрируемости функции, следствие через колебания. Критерий интегрируемости через верхний и нижний интегралы Дарбу [5] [наверх](https://SikioN.github.io/Math/#%D0%BA%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA-%D0%BC%D0%B0%D1%82%D0%B0%D0%BD)
+![Критерии Дарбу и Римана интегрируемости функции, следствие через колебания. Критерий интегрируемости через верхний и нижний интегралы Дарбу](https://raw.githubusercontent.com/SikioN/Math/main/cards/5.jpg)
+---
+## Свойства интегрируемых функций. [6] [наверх](https://SikioN.github.io/Math/#%D0%BA%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA-%D0%BC%D0%B0%D1%82%D0%B0%D0%BD)
+![Свойства интегрируемых функций.](https://raw.githubusercontent.com/SikioN/Math/main/cards/6.jpg)
+---
+## Классы интегрируемых функций: интегрируемость непрерывной функции, интегрируемость ограниченной функции с конечным числом точек разрыва [7] [наверх](https://SikioN.github.io/Math/#%D0%BA%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA-%D0%BC%D0%B0%D1%82%D0%B0%D0%BD)
+![Классы интегрируемых функций: интегрируемость непрерывной функции, интегрируемость ограниченной функции с конечным числом точек разрыва](https://raw.githubusercontent.com/SikioN/Math/main/cards/7.jpg)
+---
+## Свойства интеграла от интегрируемых функций: линейность, аддитивность, монотонность, отделимость от нуля. Первая теорема о среднем. [8] [наверх](https://SikioN.github.io/Math/#%D0%BA%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA-%D0%BC%D0%B0%D1%82%D0%B0%D0%BD)
+![Свойства интеграла от интегрируемых функций: линейность, аддитивность, монотонность, отделимость от нуля. Первая теорема о среднем.](https://raw.githubusercontent.com/SikioN/Math/main/cards/8.jpg)
+---
+## Интеграл с переменным пределом и его свойства. Существование первообразной у непрерывной функции, формула Ньютона-Лейбница для непрерывных функций. [9] [наверх](https://SikioN.github.io/Math/#%D0%BA%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA-%D0%BC%D0%B0%D1%82%D0%B0%D0%BD)
+![Интеграл с переменным пределом и его свойства. Существование первообразной у непрерывной функции, формула Ньютона-Лейбница для непрерывных функций.](https://raw.githubusercontent.com/SikioN/Math/main/cards/9.jpg)
+---
+## Формула Ньютона-Лейбница для интегрируемой функции, имеющей первообразную. Понятие обобщенной первообразной и обобщенная формула Ньютона-Лейбница. [10] [наверх](https://SikioN.github.io/Math/#%D0%BA%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA-%D0%BC%D0%B0%D1%82%D0%B0%D0%BD)
+![Формула Ньютона-Лейбница для интегрируемой функции, имеющей первообразную. Понятие обобщенной первообразной и обобщенная формула Ньютона-Лейбница.](https://raw.githubusercontent.com/SikioN/Math/main/cards/10.jpg)
+---
+## Формулы замены переменной и интегрирования по частям. Вторая формула замены переменной (без д-ва). [11] [наверх](https://SikioN.github.io/Math/#%D0%BA%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA-%D0%BC%D0%B0%D1%82%D0%B0%D0%BD)
+![Формулы замены переменной и интегрирования по частям. Вторая формула замены переменной (без д-ва).](https://raw.githubusercontent.com/SikioN/Math/main/cards/11.jpg)
+---
+## Формула Валлиса. [12] [наверх](https://SikioN.github.io/Math/#%D0%BA%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA-%D0%BC%D0%B0%D1%82%D0%B0%D0%BD)
+![Формула Валлиса.](https://raw.githubusercontent.com/SikioN/Math/main/cards/12.jpg)
+---
+## Формула Стирлинга. [13] [наверх](https://SikioN.github.io/Math/#%D0%BA%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA-%D0%BC%D0%B0%D1%82%D0%B0%D0%BD)
+![Формула Стирлинга.](https://raw.githubusercontent.com/SikioN/Math/main/cards/13.jpg)
+---
+## Понятие площади, свойства площади и вычисление площади. [14] [наверх](https://SikioN.github.io/Math/#%D0%BA%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA-%D0%BC%D0%B0%D1%82%D0%B0%D0%BD)
+![Понятие площади, свойства площади и вычисление площади.](https://raw.githubusercontent.com/SikioN/Math/main/cards/14.jpg)
+---
+## Понятие объема, свойства объема и вычисление объема. [15] [наверх](https://SikioN.github.io/Math/#%D0%BA%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA-%D0%BC%D0%B0%D1%82%D0%B0%D0%BD)
+![Понятие объема, свойства объема и вычисление объема.](https://raw.githubusercontent.com/SikioN/Math/main/cards/15.jpg)
+---
+## Понятие длины, свойства длины дуги и вычисление длины дуги [16] [наверх](https://SikioN.github.io/Math/#%D0%BA%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA-%D0%BC%D0%B0%D1%82%D0%B0%D0%BD)
+![Понятие длины, свойства длины дуги и вычисление длины дуги](https://raw.githubusercontent.com/SikioN/Math/main/cards/16.jpg)
+---
+## Понятие несобственного интеграла и его свойства: линейность, аддитивность, монотонность. Формулы интегрирования по частям и замены переменной. [17] [наверх](https://SikioN.github.io/Math/#%D0%BA%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA-%D0%BC%D0%B0%D1%82%D0%B0%D0%BD)
+![Понятие несобственного интеграла и его свойства: линейность, аддитивность, монотонность. Формулы интегрирования по частям и замены переменной.](https://raw.githubusercontent.com/SikioN/Math/main/cards/17.jpg)
+---
+## Признаки сходимости интегралов от знакопостоянных функций. Признаки сравнения в предельной форме. Примеры. [18] [наверх](https://SikioN.github.io/Math/#%D0%BA%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA-%D0%BC%D0%B0%D1%82%D0%B0%D0%BD)
+![Признаки сходимости интегралов от знакопостоянных функций. Признаки сравнения в предельной форме. Примеры.](https://raw.githubusercontent.com/SikioN/Math/main/cards/18.jpg)
+---
+## Критерий Коши и абсолютная и условная сходимости несобственного интеграла. Их связь. Примеры. [19] [наверх](https://SikioN.github.io/Math/#%D0%BA%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA-%D0%BC%D0%B0%D1%82%D0%B0%D0%BD)
+![Критерий Коши и абсолютная и условная сходимости несобственного интеграла. Их связь. Примеры.](https://raw.githubusercontent.com/SikioN/Math/main/cards/19.jpg)
+---
+## Лемма Абеля и вторая теорема о среднем (доказать второй вариант второй теоремы о среднем независимо, не через 1ый). [20] [наверх](https://SikioN.github.io/Math/#%D0%BA%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA-%D0%BC%D0%B0%D1%82%D0%B0%D0%BD)
+![Лемма Абеля и вторая теорема о среднем (доказать второй вариант второй теоремы о среднем независимо, не через 1ый).](https://raw.githubusercontent.com/SikioN/Math/main/cards/20.jpg)
+---
+## Признак Абеля-Дирихле (доказать обе части). Примеры. [21] [наверх](https://SikioN.github.io/Math/#%D0%BA%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA-%D0%BC%D0%B0%D1%82%D0%B0%D0%BD)
+![Признак Абеля-Дирихле (доказать обе части). Примеры.](https://raw.githubusercontent.com/SikioN/Math/main/cards/21.jpg)
+---
+## Интегралы с несколькими особенностями. Интеграл в смысле главного значения. [22] [наверх](https://SikioN.github.io/Math/#%D0%BA%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA-%D0%BC%D0%B0%D1%82%D0%B0%D0%BD)
+![Интегралы с несколькими особенностями. Интеграл в смысле главного значения.](https://raw.githubusercontent.com/SikioN/Math/main/cards/22.jpg)
+---
+## Вычисление интеграла Эйлера-Пуассона. [23] [наверх](https://SikioN.github.io/Math/#%D0%BA%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA-%D0%BC%D0%B0%D1%82%D0%B0%D0%BD)
+![Вычисление интеграла Эйлера-Пуассона.](https://raw.githubusercontent.com/SikioN/Math/main/cards/23.jpg)
+---
