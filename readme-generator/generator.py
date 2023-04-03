@@ -8,9 +8,9 @@ if __name__ == '__main__':
     if len(sys.argv) == 1:
         # НАЧАЛО ЧАСТИ, КОТОРУЮ НУЖНО ИЗМЕНИТЬ
 
-        githubName = "ваш github ник"
-        repoName = "название вашего репозитория"
-        header = "заголовок вашего сайта"
+        githubName = "SikioN"
+        repoName = "https://github.com/SikioN/Math/"
+        header = "Коллок Матан"
         fileExtension = ".jpg"
 
         # КОНЕЦ ЧАСТИ, КОТОРУЮ НУЖНО ИЗМЕНИТЬ
